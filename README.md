@@ -9,5 +9,6 @@
                   1.recursive approach
                   2.dynamic approach
                   
-     1.2)     equal sum partition problem
+     1.2)      count number of subset with given sum
+     
                   
