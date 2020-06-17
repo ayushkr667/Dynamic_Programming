@@ -11,4 +11,6 @@
                   
      1.2)      count number of subset with given sum
      
+     1.3)      minimum subset sum difference
+     
                   
