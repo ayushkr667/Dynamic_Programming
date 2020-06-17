@@ -9,3 +9,5 @@
                   1.recursive approach
                   2.dynamic approach
                   
+       1.2)     equal sum partition problem
+                  
