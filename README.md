@@ -5,9 +5,9 @@
                   2.memoization_approach
                   3.tabulation Dp
                   
- #### 1.1.)     subset_sum_problem
+     1.1.)     subset_sum_problem
                   1.recursive approach
                   2.dynamic approach
                   
-       1.2)     equal sum partition problem
+     1.2)     equal sum partition problem
                   
