@@ -16,5 +16,6 @@
 ###  2.)      unbounded Knapsack
 
      2.1)     Rod cutting problem
+     2.2)     coin change Problem
      
                   
