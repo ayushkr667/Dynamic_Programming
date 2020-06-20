@@ -15,6 +15,7 @@
 ###  2.)      unbounded Knapsack
 
      2.1)     Rod cutting problem
-     2.2)     coin change Problem
+     2.2)     coin change Problem (Maximum number of Ways)
+     2.3)     coin change Problem (Minimum number of coins)
      
                   
