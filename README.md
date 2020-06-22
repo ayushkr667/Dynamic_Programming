@@ -18,4 +18,6 @@
      2.2)     coin change Problem (Maximum number of Ways)
      2.3)     coin change Problem (Minimum number of coins)
      
+###	 3.)      Longest Common Subsequence
+     
                   
