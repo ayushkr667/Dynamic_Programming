@@ -19,5 +19,8 @@
      2.3)     coin change Problem (Minimum number of coins)
      
 ###	 3.)      Longest Common Subsequence
+                  1.recurtion_approach
+                  2.memoization_approach
+                  3.tabulation DP
      
                   
