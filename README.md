@@ -24,5 +24,6 @@
                   3.tabulation DP
                   
      3.1)     Longest Common SubString
+     3.2)     Printing Longest Common Subsequece
      
                   
