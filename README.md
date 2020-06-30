@@ -25,5 +25,6 @@
                   
      3.1)     Longest Common SubString
      3.2)     Printing Longest Common Subsequece
+     3.3)     Length of sortest common supersequence
      
                   
