@@ -28,5 +28,7 @@
      3.3)     Length of sortest common supersequence
      3.4)     Minimum number of insertion or deletion to convert a string into another
      3.5)     Longest Pallindromic SubSequence
+     3.6)     Minimum number of deletion in a string to make it pallindrome
+     3.7)     Print sortest common Supersequence
      
                   
