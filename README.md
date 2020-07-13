@@ -36,3 +36,7 @@
                   1.recurtion_approach
                   2.memoization_approach
                   
+     4.1)     plaindrome Partitioning
+                  1.Memoization
+                  2.Optimised memoization
+                  
