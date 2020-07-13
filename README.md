@@ -35,5 +35,4 @@
 ###  4.)      Matrix Chain Multiplication
                   1.recurtion_approach
                   2.memoization_approach
-                  3.tabulation DP
                   
