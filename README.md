@@ -30,5 +30,5 @@
      3.5)     Longest Pallindromic SubSequence
      3.6)     Minimum number of deletion in a string to make it pallindrome
      3.7)     Print sortest common Supersequence
-     
+     3.8)     Longest Repeating subsequence
                   
