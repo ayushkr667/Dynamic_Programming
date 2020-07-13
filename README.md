@@ -31,4 +31,9 @@
      3.6)     Minimum number of deletion in a string to make it pallindrome
      3.7)     Print sortest common Supersequence
      3.8)     Longest Repeating subsequence
+     
+###  4.)      Matrix Chain Multiplication
+                  1.recurtion_approach
+                  2.memoization_approach
+                  3.tabulation DP
                   
