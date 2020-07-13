@@ -37,6 +37,11 @@
                   2.memoization_approach
                   
      4.1)     plaindrome Partitioning
-                  1.Memoization
-                  2.Optimised memoization
+                  1.recursion
+                  2.Memoization
+                  3.Optimised memoization
+                  
+     4.2)     Scrambled String
+                  1.recursion
+                  2.Memoization
                   
