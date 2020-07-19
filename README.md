@@ -45,3 +45,12 @@
                   1.recursion
                   2.Memoization
                   
+     4.3)     Egg Dropping Problem
+                  1.recursive
+                  2.Memoization
+                  
+###   5.)     DP on Trees
+      5.1)    diameter of Binary tree
+      5.2)    Maximum Path sum (any node to any node)
+      5.3)    Maximum Path sum (leaf node to leaf node)
+                  
