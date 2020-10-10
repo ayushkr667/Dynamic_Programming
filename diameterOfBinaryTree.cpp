@@ -3,7 +3,6 @@ The diameter of a tree is the number of nodes on the longest path between
 two leaves in the tree. The diagram below shows two trees each with 
 diameter nine, the leaves that form the ends of the longest path are 
 colored (note that there may be more than one path in the tree of the same diameter).
-
 Examples:
 Input :     1
           /   \
