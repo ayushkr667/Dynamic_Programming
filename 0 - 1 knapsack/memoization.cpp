@@ -7,8 +7,7 @@
 using namespace std;
 #define pb push_back
 
-int knapsack_recursive(int w, int wt[], int val[],
-                                int i, int** memory)
+int knapsack_recursive(int w, int wt[], int val[], int i, int** memory)
 {
     if(i==0 || w==0)
         return 0;
