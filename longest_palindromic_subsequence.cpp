@@ -6,7 +6,6 @@ are also palindromic subsequences of the given sequence,
 but not the longest ones.*/
 ////////////////////////////////////////////////////////////
 //DP approach
-
 #include<bits/stdc++.h>
 using namespace std;
 
