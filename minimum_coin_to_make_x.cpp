@@ -19,7 +19,6 @@ We can use one coin of 6 cents and 1 coin of 5 cents*/
 #include<stdio.h>
 #include<algorithm>
 #include<vector>
-
 using namespace std;
 
 #define ll long long
@@ -90,8 +89,6 @@ int main()
          << mincoins(coin, n, V); 
     return 0; 
 } 
-
-
 
 ///////
 //OUTPUT = Minimum coins required is 2
