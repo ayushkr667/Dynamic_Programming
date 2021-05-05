@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 int find_cnt(int arr[], int n, int sum)
 {
     int t[n+1][sum+1];
@@ -31,7 +30,6 @@ int find_cnt(int arr[], int n, int sum)
     }
 return t[n][sum];
 }
-
 
 int main()
 {
