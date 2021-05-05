@@ -102,7 +102,6 @@ string printShortestSuperSeq(string x, string y)
     return result;
 }
 
-
 int main() 
 { 
     //string X = "AGGTAB"; 
