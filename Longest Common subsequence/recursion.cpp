@@ -10,6 +10,8 @@ but not necessarily contiguous. For example,
 ////////////////////////////////////////////////////////////////
 //recursive approach
 
+
+
 # include<bits/stdc++.h>
 using namespace std;
 
