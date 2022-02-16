@@ -38,7 +38,6 @@ struct Node* newNode(int data)
     return (node); 
 } 
 
-
 int height(Node* root, int& ans) 
 { 
     if (root == NULL) 
@@ -55,7 +54,6 @@ int height(Node* root, int& ans)
   
     return 1 + max(left_height, right_height); 
 } 
-
 
 int diameter(Node* root) 
 { 
